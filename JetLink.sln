@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetLink", "JetLink\JetLink.csproj", "{E88CE0BD-E8F1-4082-8E3D-C972B3E32B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{8836E341-0F03-49F3-9DD7-C66ECA21FE0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E88CE0BD-E8F1-4082-8E3D-C972B3E32B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88CE0BD-E8F1-4082-8E3D-C972B3E32B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88CE0BD-E8F1-4082-8E3D-C972B3E32B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88CE0BD-E8F1-4082-8E3D-C972B3E32B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8836E341-0F03-49F3-9DD7-C66ECA21FE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8836E341-0F03-49F3-9DD7-C66ECA21FE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8836E341-0F03-49F3-9DD7-C66ECA21FE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8836E341-0F03-49F3-9DD7-C66ECA21FE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A10A000-63E9-460A-ADDF-638509EDD461}
+	EndGlobalSection
+EndGlobal
