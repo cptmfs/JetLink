@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetLink", "JetLink\JetLink.csproj", "{E88CE0BD-E8F1-4082-8E3D-C972B3E32B22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JetLink", "JetLink\JetLink.csproj", "{E88CE0BD-E8F1-4082-8E3D-C972B3E32B22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{8836E341-0F03-49F3-9DD7-C66ECA21FE0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entity", "Entity\Entity.csproj", "{8836E341-0F03-49F3-9DD7-C66ECA21FE0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{EAD0F4EC-1794-4B66-82DB-CA07F6D8CFF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8836E341-0F03-49F3-9DD7-C66ECA21FE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8836E341-0F03-49F3-9DD7-C66ECA21FE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8836E341-0F03-49F3-9DD7-C66ECA21FE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD0F4EC-1794-4B66-82DB-CA07F6D8CFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD0F4EC-1794-4B66-82DB-CA07F6D8CFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD0F4EC-1794-4B66-82DB-CA07F6D8CFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD0F4EC-1794-4B66-82DB-CA07F6D8CFF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

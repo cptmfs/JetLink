@@ -8,6 +8,6 @@ namespace Entity
 {
     public class TextConveresionReq
     {
-        public string Text { get; set; }
+        public string? Text { get; set; }
     }
 }
